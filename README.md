@@ -13,3 +13,6 @@ Lab 3 -  Linear Regression
 
 Lab 4 - Comparing Logistic Regression and Naïve Bayes for Classification (Iris dataset using scikit-learn)
 
+Lab 5 and 6 - ID3 and CART Algorithm 
+
+Lab 7 - Single layer perceptron & MultiLayer Perceptron
