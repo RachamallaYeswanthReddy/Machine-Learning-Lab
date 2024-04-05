@@ -16,3 +16,5 @@ Lab 4 - Comparing Logistic Regression and Naïve Bayes for Classification (Iris 
 Lab 5 and 6 - ID3 and CART Algorithm 
 
 Lab 7 - Single layer perceptron & MultiLayer Perceptron
+
+Lab 8 - Clustering **K-means and K-medoid Clustering**
